@@ -1,0 +1,7 @@
+opencv-python
+ultralytics
+pytesseract
+numpy
+pandas
+torch
+PyYAML
