@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build and runtime artifacts
+output/*
+!output/.gitkeep
+*.log
+yolov8n.pt
+
+# Databases and generated data
+*.db
+*.sqlite
+*.sqlite3
