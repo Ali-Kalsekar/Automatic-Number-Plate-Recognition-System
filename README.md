@@ -1,5 +1,5 @@
 # Automatic Number Plate Recognition System
-> Last automated login update: 2026-09-13 18:44:52
+> Last automated login update: 2026-09-14 10:00:28
 
 A production-oriented Automatic Number Plate Recognition (ANPR) system built with **OpenCV**, **YOLOv8**, and **Tesseract OCR**.
 
